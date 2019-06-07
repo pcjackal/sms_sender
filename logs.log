@@ -1,0 +1,34 @@
+2019-06-07 12:25:26.563468  Uruchomienie skryptu sms_sender.py
+2019-06-07 12:25:32.924147  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 12:25:40.142558  Zeskanowano kod QR
+2019-06-07 12:25:40.144559  Synchronizacja z telefonem ustanowiona
+2019-06-07 12:30:15.621196  Uruchomienie skryptu sms_sender.py
+2019-06-07 12:30:22.014082  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 12:30:56.939976  Zeskanowano kod QR
+2019-06-07 12:30:56.941980  Synchronizacja z telefonem ustanowiona
+2019-06-07 12:30:56.944979  Podano nieprawid³ow¹ iloœæ argumentów. Wyjœcie z programu.
+2019-06-07 12:32:37.606061  Uruchomienie skryptu sms_sender.py
+2019-06-07 12:32:44.318446  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 12:33:19.230453  Zeskanowano kod QR
+2019-06-07 12:33:19.232455  Synchronizacja z telefonem ustanowiona
+2019-06-07 12:33:31.513725  +48888633529      Python skrypt sms_sender test    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:45:20.460160  Uruchomienie skryptu sms_sender.py
+2019-06-07 12:45:26.979784  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 12:45:35.205297  Zeskanowano kod QR
+2019-06-07 12:45:35.207300  Synchronizacja z telefonem ustanowiona
+2019-06-07 12:45:47.431991  +48888633529      Python skrypt sms_sender test    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:45:59.669144  +48 888 633 529      Python skrypt sms_sender test odstepy    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:46:11.883399  +48888633529        Python skrypt sms_sender test odstep koniec    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:46:23.668674  48888633529      bez plusa w nr    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:46:35.453199  888633529      bez kierunkowego    Wiadomoœæ zosta³a wys³ana
+2019-06-07 12:46:47.417776  0048888633529      nr z kierunkowym postaci 0048    Wiadomoœæ zosta³a wys³ana
+2019-06-07 13:13:01.355887  Uruchomienie skryptu sms_sender.py
+2019-06-07 13:13:07.743848  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 13:13:09.850270  Zeskanowano kod QR
+2019-06-07 13:13:09.853271  Synchronizacja z telefonem ustanowiona
+2019-06-07 13:13:09.856271  Podano nieprawid³ow¹ iloœæ argumentów. Wyjœcie z programu.
+2019-06-07 13:13:41.461214  Uruchomienie skryptu sms_sender.py
+2019-06-07 13:13:47.636051  Oczekiwanie na zeskanowanie kodu QR
+2019-06-07 13:13:49.730418  Zeskanowano kod QR
+2019-06-07 13:13:49.732419  Synchronizacja z telefonem ustanowiona
+2019-06-07 13:14:01.571280  888633529      test_z_konsoli    Wiadomoœæ zosta³a wys³ana
